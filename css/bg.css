@@ -1,0 +1,34 @@
+@charset "utf-8";
+/* CSS Document */
+body 
+{
+	margin:0;
+	padding:0;
+	animation: bgcolor infinite 20s;
+}
+@keyframes bgcolor{
+0%
+{
+	background:#e74c3c ;
+	}
+20%
+{
+	background:#2980b9 ;}
+}
+40%
+{
+	background:#f1c40f ;}
+}
+60%
+{
+	background: #8e44ad ;}
+}
+80%
+{
+	background: #34495e;}
+}
+100%
+{
+	background: #e74c3c ;}
+}
+}
